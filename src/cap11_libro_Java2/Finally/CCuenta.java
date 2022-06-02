@@ -1,4 +1,4 @@
-package ejemplos_excepciones.cap11_libro_Java2.Finally;
+package cap11_libro_Java2.Finally;
 
 //////////////////////////////////////////////////////////////////
 // Clase CCuenta: clase abstracta que agrupa los datos comunes a

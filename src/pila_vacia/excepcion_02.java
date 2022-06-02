@@ -1,6 +1,6 @@
 // Ejemplo sacado y adaptado para evitar errores del libro de texto
 
-package ejemplos_excepciones.pila_vacia;
+package pila_vacia;
 
 //import java.io.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package ejemplos_excepciones.cap11_libro_Java2.Excepciones_lista_tlfs;
+package cap11_libro_Java2.Excepciones_lista_tlfs;
 
 /////////////////////////////////////////////////////////////////
 // Definición de la clase CPersona

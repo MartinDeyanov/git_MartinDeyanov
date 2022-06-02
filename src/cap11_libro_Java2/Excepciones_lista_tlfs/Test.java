@@ -1,5 +1,4 @@
-package ejemplos_excepciones.cap11_libro_Java2.Excepciones_lista_tlfs;
-import cap10.Banco.*;
+package cap11_libro_Java2.Excepciones_lista_tlfs;
 import java.io.*;
 
 /////////////////////////////////////////////////////////////////
@@ -18,7 +17,8 @@ public class Test
     System.out.println();
     System.out.print("   Opción: ");
     int op;
-    do
+    
+	do
       op = Leer.datoInt();
     while (op < 1 || op > 5);
     return op;

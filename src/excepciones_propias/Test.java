@@ -1,4 +1,4 @@
-package ejemplos_excepciones.excepciones_propias;
+package excepciones_propias;
 
 public class Test
 {

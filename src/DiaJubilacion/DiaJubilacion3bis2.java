@@ -1,7 +1,7 @@
 /**
  * 
  */
-package ejemplos_excepciones.DiaJubilacion;
+package DiaJubilacion;
 
 import java.util.Scanner;
 import java.util.Calendar;

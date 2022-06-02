@@ -1,4 +1,4 @@
-package ejemplos_excepciones.DiaJubilacion;
+package DiaJubilacion;
 
 import java.text.DateFormat;
 import java.text.ParseException;
